@@ -12,3 +12,4 @@ ghcr.io/wg-easy/wg-easy
 ghcr.io/open-webui/open-webui
 antonyleons/ward
 evil0ctal/douyin_tiktok_download_api
+lobehub/lobe-chat
