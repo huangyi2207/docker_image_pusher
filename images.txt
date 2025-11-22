@@ -2,9 +2,9 @@ nginx
 surveyking/surveyking
 sickcodes/docker-osx
 ubuntu
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 ghcr.io/wg-easy/wg-easy
 ghcr.io/open-webui/open-webui
 antonyleons/ward
 nickrunning/wechat-selkies:latest
 whyour/qinglong:latest
+lscr.io/linuxserver/chrome:latest
