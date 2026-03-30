@@ -8,3 +8,4 @@ antonyleons/ward
 nickrunning/wechat-selkies:latest
 whyour/qinglong:latest
 lscr.io/linuxserver/chrome:latest
+andrius/asterisk:git-500525c
