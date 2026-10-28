@@ -3,4 +3,4 @@ surveyking/surveyking
 ubuntu
 ghcr.io/wg-easy/wg-easy
 whyour/qinglong:latest
-node
+node:20-alpine
